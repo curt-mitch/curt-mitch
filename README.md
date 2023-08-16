@@ -1,16 +1,41 @@
-### Hi there 👋
+# Howdy! 🤠
 
-<!--
-**curt-mitch/curt-mitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Curtis Mitchell. I'm a software developer focused on machine-learning and artificial intelligence, privacy-enhancing technologies, and full-stack web development. I currently work for the [US Census Bureau](https://www.census.gov/) on the [xD team](https://xd.gov/), and I am also an open-source contributor and core team member of [OpenMined](https://www.openmined.org/). Previously I worked for NASA on the [SimLabs](https://www.nasa.gov/simlabs/) team at the Ames Research Center, and before that I worked for several data and machine learning startups. I grew up in Texas and Missouri and now call San Francisco, California my home. When I'm not behind a keyboard you can usually find me cooking 🥘🌮🍜, mixing drinks 🍹🍸, exercising 💪🏼, or reading a good book 📚.
 
-Here are some ideas to get you started:
+## Links
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [Curt-Mitch.com](https://curt-mitch.com) (personal website)
+* [LinkedIn](https://www.linkedin.com/in/curtislmitchell/)
+* [Twitter](https://twitter.com/Curt_Mitch)
+
+## Languages
+
+* Python
+* JavaScript/TypeScript
+* SQL
+* Bash/Zsh
+
+## Technologies and Platforms
+
+* **SQL Databases**: PostgreSQL, SQLite
+* **NoSQL Databases**: MongoDB, Redis
+* **Containers and Orchestration**: Docker, Kubernetes
+* **CI/CD**: Github Actions
+
+## Machine Learning / Data Science
+
+* **General**: Numpy, scikit-learn, Pandas, PySyft
+* **Deep Learning**: Tensorflow, PyTorch, JAX
+
+## Privacy-Enhancing Technologies
+
+* Differential Privacy
+* Secure Multi-Party Computation
+* Homomorphic Encryption
+* Zero-Knowledge Proofs
+
+## Web-Development
+
+* **Frontend Frameworks**: React, Redux, Next.js, Angular, jQuery
+* **HTML/CSS**: Sass, Tailwind
+* **Backend Frameworks**: Express, Nest.js, Django
