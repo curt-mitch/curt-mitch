@@ -27,6 +27,7 @@ My name is Curtis Mitchell. I'm a software developer focused on machine-learning
 * **General**: Numpy, scikit-learn, Pandas, PySyft
 * **Deep Learning**: Tensorflow, PyTorch, JAX
 * **Natural Language Processing**: NLTK, spaCy
+* **Data Visualization**: matplotlib, Plotly, Seaborn, d3.js
 
 ## Privacy-Enhancing Technologies
 
