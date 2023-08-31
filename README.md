@@ -36,7 +36,7 @@ My name is Curtis Mitchell. I'm a software developer focused on machine-learning
 * Secure Multi-Party Computation
 * Federated Learning
 * Homomorphic Encryption
-* Zero-Knowledge Proofs
+* Zero-Knowledge Proofs, zk-SNARKs
 
 ## Web-Development
 
