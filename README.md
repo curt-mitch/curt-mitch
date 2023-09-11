@@ -41,5 +41,5 @@ My name is Curtis Mitchell. I'm a software developer focused on machine-learning
 ## Web-Development
 
 * **Frontend Frameworks**: React, Redux, Next.js, Angular, jQuery
-* **HTML/CSS**: Sass, Tailwind
+* **Styling/Design Systems**: Sass, Tailwind, Material, USDWS
 * **Backend Frameworks**: Express, Nest.js, Django, Flask
