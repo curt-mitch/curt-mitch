@@ -13,6 +13,7 @@ My name is Curtis Mitchell. I'm a software developer focused on machine-learning
 
 * Python
 * JavaScript/TypeScript
+* HTML & CSS
 * SQL
 * Bash/Zsh
 
@@ -21,7 +22,7 @@ My name is Curtis Mitchell. I'm a software developer focused on machine-learning
 * **SQL Databases**: PostgreSQL, SQLite
 * **NoSQL Databases**: MongoDB, Redis
 * **Containers and Orchestration**: Docker, Podman, Kubernetes
-* **CI/CD**: Github Actions
+* **CI/CD and DevOps**: Github Actions, Ansible, Terraform
 * **Cloud Computing**: AWS, Azure, DigitalOcean, Vercel
 
 ## Machine Learning / Data Science
@@ -43,5 +44,5 @@ My name is Curtis Mitchell. I'm a software developer focused on machine-learning
 
 * **Static Site Generators**: Jekyll
 * **Frontend Frameworks**: React, Redux, Next.js, Angular, jQuery
-* **Styling/Design Systems**: Sass, Tailwind, USDWS
+* **Styling/Design Systems**: Sass, Tailwind, USWDS
 * **Backend Frameworks**: Express, Nest.js, Django, Flask
