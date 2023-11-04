@@ -23,7 +23,7 @@ My name is Curtis Mitchell. I'm a software developer focused on machine-learning
 * **NoSQL Databases**: MongoDB, Redis
 * **Containers and Orchestration**: Docker, Podman, Kubernetes
 * **CI/CD and DevOps**: Github Actions, Ansible, Terraform
-* **Cloud Computing**: AWS, Azure, DigitalOcean, Vercel, Cloud.gov
+* **Cloud Computing**: AWS, Azure, DigitalOcean, Vercel, Cloud Foundry
 
 ## Machine Learning / Data Science
 
@@ -46,3 +46,4 @@ My name is Curtis Mitchell. I'm a software developer focused on machine-learning
 * **Frontend Frameworks**: React, Redux, Next.js, Angular, jQuery
 * **Styling/Design Systems**: Sass, Tailwind, USWDS
 * **Backend Frameworks**: Express, Nest.js, Django, Flask
+* **Networking**: NGINX
