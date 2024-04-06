@@ -34,9 +34,9 @@ My name is Curtis Mitchell. I'm a software developer focused on machine-learning
 
 ## Privacy-Enhancing Technologies
 
-* Differential Privacy
+* Differential Privacy: OpenDP
 * Secure Multi-Party Computation
-* Federated Learning
+* Federated Learning: Flower
 * Homomorphic Encryption
 * Zero-Knowledge Proofs, zk-SNARKs
 
