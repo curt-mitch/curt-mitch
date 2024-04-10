@@ -34,16 +34,17 @@ My name is Curtis Mitchell. I'm a software developer focused on privacy-enhancin
 
 ## Privacy-Enhancing Technologies
 
-* Differential Privacy: OpenDP
-* Secure Multi-Party Computation
-* Federated Learning: Flower
-* Homomorphic Encryption
-* Zero-Knowledge Proofs, zk-SNARKs
+* **Differential Privacy**: OpenDP
+* **Secure Multi-Party Computation**
+* **Federated Learning**: Flower
+* **Homomorphic Encryption**
+* **Zero-Knowledge Proofs**
 
 ## Web-Development
 
-* **Static Site Generators**: Jekyll
 * **Frontend Frameworks**: React, Redux, Next.js, Angular, jQuery
+* **Static Site Generators**: Jekyll
 * **Styling/Design Systems**: Sass, Tailwind, USWDS
+* **Design Platforms**: Figma
 * **Backend Frameworks**: Express, Nest.js, Django, Flask
 * **Networking**: NGINX
