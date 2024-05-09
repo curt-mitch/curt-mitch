@@ -1,6 +1,6 @@
 # Howdy! 🤠
 
-My name is Curtis Mitchell. I'm a software developer focused on privacy-enhancing technologies, machine-learning and artificial intelligence, and full-stack web development. I currently work for the [US Census Bureau](https://www.census.gov/) on the [xD team](https://xd.gov/), and I am also an open-source contributor and core team member of [OpenMined](https://www.openmined.org/). Previously I worked as a contractor for NASA on the [SimLabs](https://www.nasa.gov/simlabs/) team at the Ames Research Center, and before that I worked for several data science and machine learning startups. I grew up in Texas and Missouri and now hang my hat in San Francisco, California. When I'm not behind a keyboard you can usually find me cooking something tasty 🥘🌮🍜, exercising 💪🏼, learning and practicing languages 🇯🇵🇫🇷🇩🇪, or reading a good book 📚.
+My name is Curtis Mitchell. I'm a software engineer focused on privacy-enhancing technologies, machine-learning and artificial intelligence, and full-stack web development. I currently work for the [US Census Bureau](https://www.census.gov/) on the [xD team](https://xd.gov/), and I am also an open-source contributor and core team member of [OpenMined](https://www.openmined.org/). Previously I worked as a contractor for NASA on the [SimLabs](https://www.nasa.gov/simlabs/) team at the Ames Research Center, and before that I worked for several data science and machine learning startups. I grew up in Texas and Missouri and now hang my hat in San Francisco, California. When I'm not behind a keyboard you can usually find me cooking something tasty 🥘🌮🍜, exercising 💪🏼, learning and practicing languages 🇯🇵🇫🇷🇩🇪, or reading a good book 📚.
 
 ## Links
 
@@ -30,7 +30,7 @@ My name is Curtis Mitchell. I'm a software developer focused on privacy-enhancin
 * **General**: Numpy, scikit-learn, Pandas, PySyft
 * **Deep Learning**: Tensorflow, PyTorch, JAX
 * **Natural Language Processing**: NLTK, spaCy
-* **Data Visualization**: matplotlib, Plotly, Seaborn, d3.js
+* **Data Visualization**: matplotlib, Seaborn
 
 ## Privacy-Enhancing Technologies
 
@@ -42,9 +42,11 @@ My name is Curtis Mitchell. I'm a software developer focused on privacy-enhancin
 
 ## Web-Development
 
-* **Frontend Frameworks**: React, Redux, Next.js, Angular, jQuery
+* **Frontend Frameworks**: React, Next.js, Blitz.js, Redux, Angular, jQuery
 * **Static Site Generators**: Jekyll
 * **Styling/Design Systems**: Sass, Tailwind, USWDS
+* **Data Visualization**: D3.js, Vega
 * **Design Platforms**: Figma
 * **Backend Frameworks**: Express, Nest.js, Django, Flask
+* **ORMs**: Prisma
 * **Networking**: NGINX
