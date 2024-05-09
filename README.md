@@ -6,7 +6,6 @@ My name is Curtis Mitchell. I'm a software engineer focused on privacy-enhancing
 
 * [curt-mitch.com](https://curt-mitch.com) (personal website)
 * [LinkedIn](https://www.linkedin.com/in/curtislmitchell/)
-* [Twitter](https://twitter.com/Curt_Mitch)
 * [Github](https://github.com/curt-mitch-census) (Census Bureau account)
 
 ## Programming Languages
