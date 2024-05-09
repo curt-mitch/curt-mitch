@@ -42,11 +42,11 @@ My name is Curtis Mitchell. I'm a software engineer focused on privacy-enhancing
 
 ## Web-Development
 
-* **Frontend Frameworks**: React, Next.js, Blitz.js, Redux, Angular, jQuery
+* **Frontend Frameworks**: React, Next.js, Redux, Angular, jQuery
 * **Static Site Generators**: Jekyll
 * **Styling/Design Systems**: Sass, Tailwind, USWDS
 * **Data Visualization**: D3.js, Vega
 * **Design Platforms**: Figma
-* **Backend Frameworks**: Express, Nest.js, Django, Flask
+* **Backend Frameworks**: Blitz.js, Express, Nest.js, Flask
 * **ORMs**: Prisma
 * **Networking**: NGINX
