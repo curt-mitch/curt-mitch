@@ -20,7 +20,7 @@ My name is Curtis Mitchell. I'm a software engineer focused on privacy-enhancing
 
 * **SQL Databases**: PostgreSQL, SQLite
 * **NoSQL Databases**: MongoDB, Redis
-* **Containers and Orchestration**: Docker, Podman, Kubernetes
+* **Containers and Orchestration**: Docker, Podman, Kubernetes, Helm
 * **CI/CD and DevOps**: Github Actions, Ansible, Terraform
 * **Cloud Computing**: AWS, Azure, DigitalOcean, Vercel, Cloud Foundry
 
