@@ -13,6 +13,7 @@ My name is Curtis Mitchell. I'm a software engineer focused on privacy-enhancing
 * Python
 * JavaScript/TypeScript
 * HTML & CSS
+* Rust
 * SQL
 * Bash/Zsh
 
@@ -23,6 +24,7 @@ My name is Curtis Mitchell. I'm a software engineer focused on privacy-enhancing
 * **Containers and Orchestration**: Docker, Podman, Kubernetes, Helm
 * **CI/CD and DevOps**: Github Actions, Ansible, Terraform
 * **Cloud Computing**: AWS, Azure, DigitalOcean, Vercel, Cloud Foundry
+* **Networking**: NGINX
 
 ## Machine Learning / Data Science
 
@@ -42,10 +44,9 @@ My name is Curtis Mitchell. I'm a software engineer focused on privacy-enhancing
 ## Web-Development
 
 * **Frontend Frameworks**: React, Next.js, Redux, Angular, jQuery
+* **Backend Frameworks**: Blitz.js, Express, Nest.js, Flask
 * **Static Site Generators**: Jekyll
 * **Styling/Design Systems**: Sass, Tailwind, USWDS
-* **Data Visualization**: D3.js, Vega
+* **Data Visualization**: D3, Vega
 * **Design Platforms**: Figma
-* **Backend Frameworks**: Blitz.js, Express, Nest.js, Flask
 * **ORMs**: Prisma
-* **Networking**: NGINX
