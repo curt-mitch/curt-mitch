@@ -28,7 +28,7 @@ My name is Curtis Mitchell. I'm a software engineer focused on privacy-enhancing
 
 ## Machine Learning / Data Science
 
-* **General**: Numpy, scikit-learn, Pandas, PySyft
+* **General**: Numpy, scikit-learn, Pandas
 * **Deep Learning**: Tensorflow, PyTorch, JAX
 * **Natural Language Processing**: NLTK, spaCy
 * **Data Visualization**: matplotlib, Seaborn
@@ -37,7 +37,7 @@ My name is Curtis Mitchell. I'm a software engineer focused on privacy-enhancing
 
 * **Differential Privacy**: OpenDP
 * **Secure Multi-Party Computation**
-* **Federated Learning**: Flower
+* **Federated Learning**: PySyft, Flower
 * **Homomorphic Encryption**
 * **Zero-Knowledge Proofs**
 
