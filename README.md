@@ -13,7 +13,6 @@ My name is Curtis Mitchell. I'm a software engineer focused on privacy-enhancing
 * Python
 * JavaScript/TypeScript
 * HTML & CSS
-* Rust
 * SQL
 * Bash/Zsh
 
@@ -21,31 +20,27 @@ My name is Curtis Mitchell. I'm a software engineer focused on privacy-enhancing
 
 * **SQL Databases**: PostgreSQL, SQLite
 * **NoSQL Databases**: MongoDB, Redis
-* **Containers and Orchestration**: Docker, Podman, Kubernetes, Helm
-* **CI/CD and DevOps**: Github Actions, Ansible, Terraform
+* **Containers and Orchestration**: Docker, Kubernetes
+* **CI/CD and DevOps**: Github Actions, Terraform
 * **Cloud Computing**: AWS, Azure, DigitalOcean, Vercel, Cloud Foundry
-* **Networking**: NGINX
+* **Operating Systems**: MacOS, Linux (Ubuntu)
 
 ## Machine Learning / Data Science
 
 * **General**: Numpy, scikit-learn, Pandas
-* **Deep Learning**: Tensorflow, PyTorch, JAX
+* **Deep Learning**: Tensorflow, PyTorch
 * **Natural Language Processing**: NLTK, spaCy
 * **Data Visualization**: matplotlib, Seaborn
 
 ## Privacy-Enhancing Technologies
 
 * **Differential Privacy**: OpenDP
-* **Secure Multi-Party Computation**
-* **Federated Learning**: PySyft, Flower
-* **Homomorphic Encryption**
-* **Zero-Knowledge Proofs**
+* **Federated Learning**: Flower, PySyft
 
 ## Web-Development
 
 * **Frontend Frameworks**: React, Next.js, Redux, Angular, jQuery
-* **Backend Frameworks**: Blitz.js, Express, Flask
 * **Static Site Generators**: Jekyll
-* **Styling/Design Systems**: Sass, Tailwind, USWDS
-* **Data Visualization**: D3, Vega
+* **Styling/Design Systems**: Sass, USWDS
+* **Data Visualization**: D3
 * **Design Platforms**: Figma
