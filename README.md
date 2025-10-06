@@ -22,9 +22,9 @@ My name is Curtis Mitchell. I'm a software engineer focused on privacy-enhancing
 * **SQL Databases**: PostgreSQL, SQLite
 * **NoSQL Databases**: MongoDB, Redis
 * **Containers and Orchestration**: Docker, Kubernetes
-* **CI/CD and DevOps**: Github Actions, Terraform
-* **Cloud Computing**: AWS, Azure, DigitalOcean, Vercel, Cloud Foundry
-* **Operating Systems**: MacOS, Linux (Ubuntu)
+* **CI/CD and DevOps**: Github Actions, GitLab CI/CD, Terraform
+* **Cloud Computing**: AWS, DigitalOcean
+* **Operating Systems**: MacOS, Linux
 
 ## Machine Learning / Data Science
 
@@ -40,8 +40,8 @@ My name is Curtis Mitchell. I'm a software engineer focused on privacy-enhancing
 
 ## Web-Development
 
-* **Frontend Frameworks**: React, Next.js, Redux, Angular, jQuery
+* **Frontend Frameworks**: React, Next.js, HTMX
+* **Backend**: Node.js, FastAPI
 * **Static Site Generators**: Jekyll
-* **Styling/Design Systems**: Sass, USWDS
-* **Data Visualization**: D3
-* **Design Platforms**: Figma
+* **Styling/Design Systems**: Sass, Tailwind
+* **Data Visualization**: D3.js
