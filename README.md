@@ -5,9 +5,8 @@ My name is Curtis Mitchell. I'm a software engineer with experience in data priv
 ## Links
 
 * [Mitchell Technology Consulting](https://mitchell-technology-consulting.com/)
-* [curt-mitch.com](https://curt-mitch.com) (personal website)
+* [curt-mitch.com](https://curt-mitch.com) (personal blog)
 * [LinkedIn](https://www.linkedin.com/in/curtislmitchell/)
-* [Github](https://github.com/curt-mitch-gov) (Census Bureau account)
 
 ## Programming Languages
 
@@ -23,8 +22,8 @@ My name is Curtis Mitchell. I'm a software engineer with experience in data priv
 * **NoSQL Databases**: MongoDB, Redis
 * **Containers and Orchestration**: Docker, Kubernetes
 * **CI/CD**: Github Actions, GitLab CI/CD
-* **DevOps**: Terraform, Ansible
-* **Cloud Computing**: AWS, DigitalOcean
+* **DevOps**: OpenTofu/Terraform, Ansible
+* **Cloud Computing**: Amazon Web Services (AWS), DigitalOcean
 * **Operating Systems**: MacOS, Linux
 
 ## Machine Learning / Data Science
