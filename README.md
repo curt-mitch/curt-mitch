@@ -19,8 +19,8 @@ My name is Curtis Mitchell. I'm a software engineer with experience in data priv
 ## Technologies and Platforms
 
 * **SQL Databases**: PostgreSQL, SQLite
-* **NoSQL Databases**: MongoDB, Redis
-* **Containers and Orchestration**: Docker, Kubernetes
+* **NoSQL Databases**: MongoDB, Redis/Valkey
+* **Containers and Orchestration**: Docker, Podman, Kubernetes
 * **CI/CD**: Github Actions, GitLab CI/CD
 * **DevOps**: OpenTofu/Terraform, Ansible
 * **Cloud Computing**: Amazon Web Services (AWS), DigitalOcean
