@@ -43,3 +43,7 @@ My name is Curtis Mitchell. I'm a software engineer with experience in data priv
 * **Backend**: Node.js, FastAPI
 * **Styling/Design Systems**: Sass, Tailwind
 * **Data Visualization**: D3.js
+
+## Certifications
+
+* [Certified Information Privacy Technologist](https://www.credential.net/7d34b711-95af-465f-bfce-5d04f37af6fd) (CIPT) - The International Association of Privacy Professionals (IAPP) 
